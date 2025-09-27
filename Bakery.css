@@ -1,0 +1,33 @@
+.nav{
+background-color: red;
+padding: 1px;
+}
+body{
+    background-image: url("wer.jpg");
+    background-attachment: scroll;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    backface-visibility: hidden;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+body{
+    color: white;
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+.nav li{
+    color: white;
+}
+button{
+    color: greenyellow;
+}
+.copy{
+    color: rgb(86, 0, 167);
+}
